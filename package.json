@@ -20,7 +20,7 @@
     "cytoscape-fcose": "^1.2.1",
     "d3": "^5.15.1",
     "date-fns": "^2.11.1",
-    "firebase-tools": "^8.0.1",
+    "firebase-tools": "^12.5.4",
     "graphql": "^15.0.0",
     "react": "latest",
     "react-cytoscapejs": "^1.2.1",
